@@ -5,8 +5,8 @@
 ![Logo](1_dakikalik_isler_logo_koyu.png)
 
 ## Oyna
-- **Web (itch.io):** (eklenecek)
-- **Windows + Unity projesi:** [Releases](../../releases) sayfasından indir.
+- **Web (itch.io):** https://yigitefeerkisi.itch.io/1-dakikalk-ler
+- **Windows + Unity projesi:** [Releases v1.0](https://github.com/senseivi1221-ui/1-Dakikalik-Isler/releases/tag/v1.0) sayfasından indir.
 
 > Web sürümü tarayıcıda çalıştığı için bilgisayara göre düşük FPS verebilir. En akıcı deneyim için Windows sürümünü öneririz.
 
